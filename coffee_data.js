@@ -1,3 +1,4 @@
+
 const coffeeMenu = [
     {
         name: "cappuccino",
@@ -45,3 +46,5 @@ const coffeeMenu = [
         seasonal: true,
     }
 ]
+
+module.exports = coffeeMenu;
